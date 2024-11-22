@@ -4,7 +4,8 @@ This area is focused on the core Compute Service of Oracle Cloud Infrastructure 
 
 
 
-<i>Review date: 25 Oct 2024</I>
+*Review date: 22 November 2024*
+
 
 # Useful Links
 
